@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning DSA & Tensorflow.  
   
 
-- ❓ Ask me about anything related to Data Science, Tensorflow and related.  
+- ❓ Ask me about anything related to Data Science, Machine Learning and Deep Learning.  
   
 
 - ⚡ Fun fact: I prefer books over courses.  
