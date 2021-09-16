@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Shivam, a data scientist and web developer</div>  
+# <div align="center">I'm Shivam, Data Scientist and Web Developer</div>  
   
 
 - 🔭 I’m currently working on Deep Learning.  
