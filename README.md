@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/fSZ1T8g/git.gif" align="center" style="width: 75%; height: 50%" />
 </div>  
   
 
