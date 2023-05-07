@@ -3,16 +3,16 @@
 </div>  
   
 
-# <div align="center">I'm Shivam, Web Developer and Data Scientist</div>  
+# <div align="center">I'm Shivam, Web Developer and Machine Learing Engineer</div>  
   
 
-- 🔭 I’m currently working on React and Firebase.  
+- 🔭 I’m currently working on Python, FastAPI and React.  
   
 
-- 🌱 I’m currently learning DSA.  
+- 🌱 I’m currently learning System Design and Scaling.  
   
 
-- ❓ Ask me about anything related to Data Science, Machine Learning and Web Development.  
+- ❓ Ask me about anything related to Web Development and Machine Learning.  
   
 
 - ⚡ Fun fact: I prefer books over courses.  
